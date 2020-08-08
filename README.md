@@ -1,3 +1,3 @@
 ## A Simple form created with React
 
-https://loving-williams-55668c.netlify.app
+https://create-simple-account-dehedin.netlify.app
